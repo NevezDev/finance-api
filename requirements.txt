@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+python-dotenv
+python-jose[cryptography]
+bcrypt>=4.1,<6.0
+psycopg2-binary
+email-validator
+requests
+flet
