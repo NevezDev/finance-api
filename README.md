@@ -2,14 +2,14 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-API-009688?logo=fastapi&logoColor=white)
-![Tests](https://img.shields.io/github/actions/workflow/status/SEU_USUARIO/finance-api/tests.yml?label=tests)
+![Tests](https://img.shields.io/github/actions/workflow/status/NevezDev/finance-api/tests.yml?label=tests)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 Aplicacao full stack de controle financeiro pessoal, com API REST em FastAPI e
 interface desktop em Flet. Cada usuario possui seu proprio espaco para organizar
 receitas, despesas, categorias e metas financeiras.
 
-> Antes de publicar, substitua `SEU_USUARIO` no badge acima pelo seu usuario do GitHub.
+
 
 ## Funcionalidades
 
